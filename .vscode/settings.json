@@ -1,0 +1,11 @@
+{
+    "C_Cpp.default.compilerPath": "",
+    "files.associations": {
+        "*.cpp": "cpp",
+        "array": "cpp",
+        "string_view": "cpp",
+        "iostream": "cpp",
+        "numeric": "cpp",
+        "regex": "cpp"
+    }
+}
